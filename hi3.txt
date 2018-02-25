@@ -1,3 +1,4 @@
 <?php 
 echo "Hi Adi you will be successfull for sure"
+echo "hi";
 ?>
